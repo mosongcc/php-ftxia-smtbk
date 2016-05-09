@@ -1,0 +1,74 @@
+@charset "utf-8";html{background:#f2f2f2}
+figcaption,figure{margin:0;padding:0;border:0}
+#ct{background:#f2f2f2;overflow:hidden;padding:0 5px;box-sizing:border-box}
+.brand_nav_main{width:100%;height:44px;display:-webkit-box;-webkit-box-orient:horizontal;background:#e63b53}
+.brand_nav_main ul{width:100%;overflow:hidden}
+.brand_nav_main ul li{float:left;padding:0 12px;text-align:center;font:14px/44px '\5fae\8f6f\96c5\9ed1';color:rgba(255,255,255,.8);text-align:center;position:relative}
+.brand_nav_main ul li a{color:rgba(255,255,255,.8);text-align:center;}
+.brand_nav_main ul li.brand_nav_on{font-size:16px;color:#fff}
+.brand_nav_main ul li.brand_nav_on:after{width:0;height:0;border-width:0 5px 5px;border-color:transparent transparent #f2f2f2;border-style:solid;font-size:0;position:absolute;bottom:0;left:50%;margin-left:-5px;content:""}
+.brand_main{min-width:310px;max-width:620px;margin:0 auto}
+#brand_nav_wrapper{width:100%;max-width: 640px;min-width: 320px;float:left;position:relative;z-index:1;overflow:hidden}
+#brand_nav_scroller{width:100%;float:left;padding:0}
+#brand_nav_scroller ul{display:block;float:left;width:12200px;;padding:0;margin:0;text-align:left}
+#brand_nav_scroller ul li{box-sizing:border-box;display:block;float:left}
+.brand_list{margin-top:8px;position:relative;background:#fff;border:1px solid #e5e5e5}
+.brand_list time{color:rgba(255,255,255,.8);position:absolute;top:0;right:0;height:16px;font:10px/16px '\5fae\8f6f\96c5\9ed1';background:rgba(0,0,0,.5);padding:0 5px 0 24px;text-align:right;z-index:2}
+.brand_list time:before{background:url(../img/ued_ico1.png) no-repeat;background-size:contain;width:14px;height:14px;content:"";display:block;position:absolute;top:1px;left:5px}
+.brand_list figure{position:relative}
+.brand_list figure img{width:100%}
+.brand_list figure h3{color:#fff;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;width:100%;position:absolute;bottom:0;left:0;background-image:-webkit-linear-gradient(top,transparent,rgba(0,0,0,.5));box-sizing:border-box;padding:0 8px;font:14px/24px '\5fae\8f6f\96c5\9ed1'}
+.brand_list aside{border-top:0;height:20px;padding:6px;line-height:20px;display:table;box-sizing:border-box;width:100%}
+.brand_list aside figure{position:relative;width:190px;display:table-cell}
+.brand_list aside figure img{width:40px;height:20px;position:absolute;top:0;left:0}
+.brand_list aside figure p{font-size:12px;color:#848484;height:20px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;width:150px;padding-left:50px}
+.brand_list aside .r{font:700 12px/20px '\5fae\8f6f\96c5\9ed1';color:#666;width:116px;text-align:right;display:table-cell}
+.brand_list aside .r span{color:#e63b53;margin-right:10px}
+.brand_list aside .r span b{font-size:14px}
+.brand_list_main{min-width:310px;max-width:620px;margin:0 auto}
+.brand_mes{background:#fff;height:55px;position:relative;width:100%;box-sizing:border-box;padding:10px 6px 10px 76px}
+.brand_mes img{width:60px;height:30px;position:absolute;top:10px;left:9px}
+.brand_mes h3,.brand_mes p{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;width:100%;box-sizing:border-box}
+.brand_mes h3{font-size:14px;color:#000}
+.brand_mes p{font-size:12px;color:#848484}
+.brand_discount{position:relative;width:100%;padding:10px;box-sizing:border-box;font:14px/16px '\5fae\8f6f\96c5\9ed1';height:36px}
+.brand_discount p{width:63%;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;height:16px;padding-left:14px;position:relative}
+.brand_discount p:before{background:url(../img/ued_ico2.png) no-repeat;background-size:contain;width:10px;height:16px;content:"";display:inline-block;position:absolute;top:2px;left:0}
+.brand_discount time{height:16px;text-align:right;position:absolute;top:10px;right:10px;padding-left:16px;line-height:16px}
+.brand_discount time:before{background:url(../img/ued_ico1.png) no-repeat;background-size:contain;width:14px;height:14px;content:"";position:absolute;top:1px;left:0}
+.brand_lists{width:100%}
+.brand_lists ul{min-width:310px;max-width:620px;margin:0 auto;font-size:0}
+.brand_lists ul li{width:48.71%;background:#fff;position:relative;margin-bottom:6px;display:inline-block}
+.brand_lists ul li img{width:100%}
+.brand_lists ul li:nth-child(2n){margin-left:8px}
+.price_line{width:100%;height:26px;line-height:26px}
+.price_line .pprice{font-size:16px;color:#e63b53;margin:0 5px}
+.price_line del{font-size:12px;color:#848484}
+.dis_line{width:100%;height:26px;line-height:26px;font-size:11px;color:#a0a0a0;display:table;box-sizing:border-box;padding:0 5px}
+.dis_line span{display:table-cell}
+.p_zhe{width:22%}
+.p_zhe i.by{display:inline-block;color:#e63b53;font-size:9px;border:1px solid #e63b53;border-radius:2px;vertical-align:top;margin-top:6px;padding:0;line-height:11px;height:11px}
+.sales{width:42%}
+.postage{text-align:right;width:36%}
+.item_tt{margin:0 5px;height:26px;line-height:26px;font-size:14px;color:#444}
+.item_tt span{width:100%;height:26px;display:inline-block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.brand_lists .icon{width:25px;height:26px;display:block;position:absolute;top:0;left:6px;background:url(../img/new_icon.png) no-repeat;background-size:258px 41px;background-position:100px 100px}
+.brand_lists .jrsx{background-position:0 0}
+.brand_lists .sjzx{background-position:-25px 0}
+.brand_lists .pptm{background-position:-50px 0}
+.brand_lists .yph{background-position:-75px 0}
+.brand_lists .bktj{background-position:-100px 0}
+.brand_lists .ztg{background-position:-125px 0}
+.mark_qiangwan{background:url(../img/ico_qiangwan.png) no-repeat;background-size:61px 44px;position:absolute;bottom:78px;right:0;width:61px;height:44px}
+.not_data{margin:20% auto 0;font:14px/20px '\5fae\8f6f\96c5\9ed1';width:180px;text-align:center}
+.not_data i{background:url(../img/img_500.png) no-repeat;width:86px;height:103px;background-size:contain;display:block;margin:0 auto 10px}
+.loading_more{width:100%;text-align:center;padding:15px 0;font-size:14px;color:#9b9b9b;background-color:#fff;display:none;float:left}
+.list_end{width:100%;height:60px;text-align:center;display:none;float:left}
+.list_end span{width:275px;height:25px;background:url(../img/sou_no_end.png);background-size:275px auto;display:inline-block;margin-top:10px}
+.loading{display:inline-block}
+#loading_init{width:100%;margin-top:49%;text-align:center;font-size:14px;color:#9b9b9b}
+.icon_load{display:inline-block;width:29px;height:29px;text-align:center;vertical-align:middle;background:url(../img/ico_loading.png);background-repeat:no-repeat;background-size:contain;margin-right:10px}
+.icon_load{-webkit-transform:rotate(0) translateZ(0);-webkit-transition-duration:0ms;-webkit-animation-name:ico_loading;-webkit-animation-duration:1.5s;-webkit-animation-iteration-count:infinite;-webkit-animation-timing-function:linear}
+@-webkit-keyframes ico_loading{from{-webkit-transform:rotate(0) translateZ(0)}
+to{-webkit-transform:rotate(360deg) translateZ(0)}
+}

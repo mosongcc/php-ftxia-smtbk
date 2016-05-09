@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+.header .mainNav .nav .navigation li.current {background: #ec1611;}
+.header .mainNav {background: #c7000b;}
+.header .state-show .normal-a:hover {background: #ec1611;}
+.header .mainNav .nav .navigation li .all-classify {border: #ec1611 solid 1px;}
+.header .mainNav .nav .navigation li a:hover {background: #ec1611;}
+
+.header .logo .juan-logo, .header .logo .juan-txt, .header .logo .juan-user, .header .logo .juan-jifen, .header .logo .juan-fanli, .header .logo h1 .juan-iphone, .header .search .smt {background: url(../images/header-total.gif) no-repeat;}
+.header .search .smt {background-position: right -65px;border: 0 none;cursor: pointer;height: 35px;width: 37px;}
+ 
+.main .goods-list li:hover .good-price .btn-new.buy a,.main .goods-list li:hover .good-price .btn-new.sellout a, .main .goods-list li:hover .good-price .btn-new.end a {background: #ec1611;}
+.main .goods-list li:hover,.main .goods-list li:hover .pic-des {border-color: #ec1611;}
+.main .goods-list li .list-good .good-price .price-current {color: #ec1611;}
+.main .goods-list li .list-good .good-price .btn-new a {color: #ec1611;}
+.main .goods-list li:hover .good-price .btn-new.buy a, .main .goods-list li:hover .good-price .btn-new.sellout a, .main .goods-list li:hover .good-price .btn-new.end a {color: #fff;}
+.main .tb-thumb .tb-selected {border-color: #ec1611;}
+.nav-item .item-list ul li a.active, .jiu-nav .n_h a.active,.nav-item .item-list ul li a:hover, .jiu-nav .n_h a:hover {color: #ec1611;border-bottom: #ec1611 solid 2px;}
+
+.mainNav .normal-side-box p b {color: #ec1611;}
+.top_wrap .banner_l dl dd .txt span em {background: #ec1611;}
+.product .product-info .item-btn .btn {background: #ec1611;}
+.product .product-info .item-btn .btn:hover { opacity: .9;}
+.product .product-info .price .jd-current {color: #ec1611;}
+.product .product-info .title-tips01 {background: #ec1611;}
+.product .product-info .org_2 {color: #ec1611;}
+
+.product-comment .bady-tab ul li .bady-line-top {background: #ec1611;}
+.product-comment .bady-tab ul li .badyactive {color: #ec1611;}
+
+.bmain.tag-list .list-good.start .good-price .price-current,.bmain.tag-list .list-good.start .pic-des {color: #ec1611;}
+.bmain.tag-list .contain .brand-con .brand-top .shop-detail .go-kan01,.bmain.tag-list .contain .brand-con .brand-top .shop-detail .go-kan01:hover,.bmain.tag-list .good-price .ggbtn a {background: #ec1611;}
+.bmain.tag-list a:hover {text-decoration: none;}
+
+.page span ,.page a:hover{background: #ec1611;}
+.page a, .page span, .page i {color:#ec1611;}
+.page span {color:#fff}

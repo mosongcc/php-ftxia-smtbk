@@ -1,0 +1,1 @@
+<?php	return array ( 'cate_id' => '10', 'times' => '1', 'cid' => '10', 'pid' => '0', );?>

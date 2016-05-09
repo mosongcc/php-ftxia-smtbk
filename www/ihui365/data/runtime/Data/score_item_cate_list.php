@@ -1,0 +1,1 @@
+<?php	return array ( 1 => array ( 'id' => '1', 'name' => '兑换商品', 'status' => '1', 'ordid' => '1', ), 2 => array ( 'id' => '2', 'name' => '手机话费', 'status' => '1', 'ordid' => '2', ), 3 => array ( 'id' => '3', 'name' => '支付宝红包', 'status' => '1', 'ordid' => '3', ), 4 => array ( 'id' => '4', 'name' => '兑换Q币', 'status' => '1', 'ordid' => '4', ), );?>

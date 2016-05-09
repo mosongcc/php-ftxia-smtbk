@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+.header .mainNav .nav .navigation li.current {background: #c63f1a;}
+.header .mainNav {background: #ee4e22;}
+.header .state-show .normal-a:hover {background: #c63f1a;}
+.header .mainNav .nav .navigation li .all-classify {border: #c63f1a solid 1px;}
+.header .mainNav .nav .navigation li a:hover {background: #c63f1a;}
+
+.header .logo .juan-logo, .header .logo .juan-txt, .header .logo .juan-user, .header .logo .juan-jifen, .header .logo .juan-fanli, .header .logo h1 .juan-iphone, .header .search .smt {background: url(../images/header-total.gif) no-repeat;}
+.header .search .smt {background-position: right -65px;border: 0 none;cursor: pointer;height: 35px;width: 37px;}
+ 
+.main .goods-list li:hover .good-price .btn-new.buy a,.main .goods-list li:hover .good-price .btn-new.sellout a, .main .goods-list li:hover .good-price .btn-new.end a {background: #f8285c;}
+.main .goods-list li:hover,.main .goods-list li:hover .pic-des {border-color: #f8285c;}
+.main .goods-list li .list-good .good-price .price-current {color: #f8285c;}
+.main .goods-list li .list-good .good-price .btn-new a {color: #f8285c;}
+.main .goods-list li:hover .good-price .btn-new.buy a, .main .goods-list li:hover .good-price .btn-new.sellout a, .main .goods-list li:hover .good-price .btn-new.end a {color: #fff;}
+.main .tb-thumb .tb-selected {border-color: #f8285c;}
+.main .list-good .newicon {width: 37px;height: 37px;left: 0px;top: 0px;background:url("../images/xinpin.png") no-repeat 0 0}
+.nav-item .item-list ul li a.active, .jiu-nav .n_h a.active,.nav-item .item-list ul li a:hover, .jiu-nav .n_h a:hover {color: #f8285c;border-bottom: #f8285c solid 2px;}
+
+.mainNav .normal-side-box p b {color: #c63f1a;}
+.top_wrap .banner_l dl dd .txt span em {background: #c63f1a;}
+.product .product-info .item-btn .btn {background: #f8285c;}
+.product .product-info .item-btn .btn:hover {background: #ff517d;}
+.product .product-info .price .jd-current {color: #f8285c;}
+.product .product-info .title-tips01 {background: #f8285c;}
+.product .product-info .org_2 {color: #f8285c;}
+
+.product-comment .bady-tab ul li .bady-line-top {background: #c63f1a;}
+.product-comment .bady-tab ul li .badyactive {color: #f8285c;}
+
+.bmain.tag-list .list-good.start .good-price .price-current,.bmain.tag-list .list-good.start .pic-des {color: #f8285c;}
+.bmain.tag-list .contain .brand-con .brand-top .shop-detail .go-kan01,.bmain.tag-list .contain .brand-con .brand-top .shop-detail .go-kan01:hover,.bmain.tag-list .good-price .ggbtn a {background: #f8285c;}
+.bmain.tag-list a:hover {text-decoration: none;}
+
+.page span ,.page a:hover{background: #ee4e22;}
+.page a, .page span, .page i {color:#ee4e22;}
+.page span {color:#fff}

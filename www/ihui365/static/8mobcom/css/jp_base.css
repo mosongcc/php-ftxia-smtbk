@@ -1,0 +1,40 @@
+body {background: #f6f6f6;}
+body, button, input, select, textarea {font: 12px/1.5 Tahoma,Helvetica,Arial,'宋体',sans-serif,\5b8b\4f53;}
+.foot {margin: 0 auto;border-top: #f8285c solid 4px;background: #fff;}
+.foot .logo{
+    color:#999999;
+    text-align:center;
+    padding-top: 10px;
+}
+.foot .logo img{
+    margin-right:27px;
+}
+.foot .logo .no{ border:none;}
+
+.top_bar {width: 1200px;margin: 0 auto;}
+
+.banner_arrow .arrow_prev {left: 240px;}
+.banner_arrow .arrow_next {right: 249px;}
+.mainNav li a ,.state-show .normal-a{ font-weight: normal;}
+
+.top_wrap .banner_l {left: 0;}
+.top_wrap .banner_r {height: 241px;top: -241px;width: 249px;}
+.top_wrap .banner_r dl {width: 250px;height: 241px;}
+.top_wrap .banner_r dl dd {width: 124px;height: 120px;}
+.top_wrap .banner_r dl dd img {width: 124px;}
+.top_wrap .round .adType a.current {background:transparent;border: 3px solid #fff;}
+
+.main .list-good .newicon {left: 0px;top: 0px;}
+.w1100 .goods-list {width: 1220px;}
+.w1100 .goods-list li {width: 285px;}
+.w1100 .goods-list .list-good {width: 285px;}
+.w1100 .goods-list .list-good .good-pic {width: 285px;}
+.w1100 .goods-list .list-good .good-pic img {width: 285px;}
+.w1100 .goods-list .list-good .pic-des {margin-left: 2px;}
+.w1100 .goods-list .list-good .good-price .price-current {font-size: 40px;font-family: Arial;font-weight: normal;}
+
+
+.page a, .page span, .page i {color: #919191;}
+.page span {color: #fff;}
+
+

@@ -1,0 +1,16 @@
+.pages {float: center;}
+.clearfix {clear: both;display: block;height: auto;overflow: hidden;visibility: visible;width: auto;}
+.container {margin: 10px auto;text-align: left;}
+.page{padding:10px 0 15px;margin-top:0px;clear:both;overflow:hidden;text-align:center}
+.page div{position:relative;margin-right:315px;padding-top:10px;float:right;display:inline}
+.page a,.page span,.page i{background:none repeat scroll 0 0 #FFF;border: 0px solid #CCC;margin-left:1px;padding:9px 13px;overflow:hidden;color:#919191;font-size:14px;font-weight:bold;border-right:none;-moz-box-shadow:1px 1px 3px rgba(226,226,226,0.75);-webkit-box-shadow:1px 1px 3px rgba(226,226,226,0.75);box-shadow:1px 1px 3px rgba(226,226,226,0.75);display:block;float:left}
+.page a.pg-next{overflow:visible;width:60px;border-radius:0 20px 20px 0;box-shadow:2px 2px 3px #D0D0CD}
+.page a.pg-next:hover{cursor:pointer}
+.page span.pg-prev{color:#bbb;font-weight:normal;background:#fff;width:60px;border-radius:20px 0 0 20px;box-shadow:2px 2px 3px #D0D0CD}
+.page span.pg-next{overflow:visible;width:60px;border-radius:0 20px 20px 0;box-shadow:2px 2px 3px #D0D0CD;background:#fff;color:#bbb;font-weight:normal}
+.page a.pg-prev{background:#FFF;width:60px;border-radius:20px 0 0 20px;box-shadow:2px 2px 3px #D0D0CD}
+.page a:hover{text-decoration:none;color:#fff;background:#0b8}
+.page span{background:#0b8;border:medium none;color:#fff;font-weight:bold}
+.page i{color:#919191}
+
+
