@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/www/ihui365/app/Lib/Action/FuncAction.class.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/ihui365/app/Tpl/index/8mobcom_juanpi/public/error.tpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/ihui365/app/Tpl/index/8mobcom_juanpi/public/success.tpl" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

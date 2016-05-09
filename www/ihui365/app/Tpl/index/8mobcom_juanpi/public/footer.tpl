@@ -131,14 +131,14 @@ if(window.screen.width<1500){
 			</div>
 			<div class="clear"></div>
 		</div>
-		<p class="f_miibeian {:C('ftx_site_width')}"><a href="http://www.miibeian.gov.cn/" rel="nofollow" target="_blank">{:C('ftx_site_icp')}</a> © 2010-2015 8MOB.com V8.0 正式版 all Rights Reserved <a href="http://bbs.8mob.com/" target="_blank">飞天侠淘宝客官方</a>
+		<p class="f_miibeian {:C('ftx_site_width')}"><a href="http://www.miibeian.gov.cn/" rel="nofollow" target="_blank">{:C('ftx_site_icp')}</a> © 2010-2016 V8.0 正式版 all Rights Reserved
 		{:C('ftx_statistics_code')}</p>
 
 		<div class="logo">
-			<a rel="nofollow" target="_blank" href=""><img border="0" src="http://s.juancdn.com/juanpi/img/icon/r_315online.gif"></a>
-			<a rel="nofollow" target="_blank" href=""><img border="0" src="http://s.juancdn.com/juanpi/img/icon/r_cnnic.gif"></a>
-			<a rel="nofollow" target="_blank" href=""><img border="0" src="http://s.juancdn.com/juanpi/img/icon/r_gongshang.gif"></a>
-			<a rel="nofollow" target="_blank" logo_type="realname" href=""><img src="http://static.anquan.org/static/outer/image/sm_124x47.png" alt="安全联盟认证" width="124" height="47" style="border: none;"></a>
+			<a rel="nofollow" href="javascript:void(0)"><img border="0" src="http://s.juancdn.com/juanpi/img/icon/r_315online.gif"></a>
+			<a rel="nofollow" href="javascript:void(0)"><img border="0" src="http://s.juancdn.com/juanpi/img/icon/r_cnnic.gif"></a>
+			<a rel="nofollow" href="javascript:void(0)"><img border="0" src="http://s.juancdn.com/juanpi/img/icon/r_gongshang.gif"></a>
+			<a rel="nofollow" logo_type="realname" href="javascript:void(0)"><img src="http://static.anquan.org/static/outer/image/sm_124x47.png" alt="安全联盟认证" width="124" height="47" style="border: none;"></a>
 		</div>
 		
 	</div>

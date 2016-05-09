@@ -4,7 +4,7 @@
 <load href="__STATIC__/css/ftxia/style.css" />
 <style>
 .main_wrap {_padding-left:22px; background: url(image/left_cur.jpg) repeat-y;padding-bottom: 15px;margin-top: 15px;}
-/*Ìø×ªÌáÊ¾*/
+/*è·³è½¬æç¤º*/
 .msg_wrap{ min-height: 220px; height: 220px;}
 .message_box{margin:60px auto;padding:20px;width:380px;border:3px solid #F2F2F2;background:#FFF;}
 .message_box a{ color: #369;}
