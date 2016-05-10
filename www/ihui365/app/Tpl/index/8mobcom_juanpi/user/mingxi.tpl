@@ -14,8 +14,9 @@
 		<div class="right">
 			<div class="menu-tag">
 				<ul>
-					<li class="active"><a href="{:U('user/mingxi')}">收入明细
+					<li class="active"><a href="{:U('user/mingxi')}">收入明细</a></li>
 					<li><a href="{:U('user/gift')}">兑换明细</a></li>
+					<li ><a href="{:U('point/chongzhi')}">积分充值</li>
 				</ul>
 			</div>
 			<div class="u-tip">

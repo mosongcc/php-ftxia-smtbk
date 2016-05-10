@@ -76,7 +76,8 @@
 								<div class="nav-center">	 
 									<ul>
 										<li><a href="{:U('user/mingxi')}">收入明细</a></li>
-										<li class='last'><a href="{:U('user/gift')}">兑换明细</a></li>
+										<li><a href="{:U('user/gift')}">兑换明细</a></li>
+										<li class='last'><a href="{:U('point/chongzhi')}">积分充值</a></li>
 									</ul>
 								</div>
 							</div>
