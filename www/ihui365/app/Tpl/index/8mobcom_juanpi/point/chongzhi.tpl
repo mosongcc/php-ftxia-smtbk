@@ -4,46 +4,7 @@
     <include file="public:head" />
     <link rel=stylesheet type=text/css href="__STATIC__/jky/css/user.css" />
     <style>
-        /* SingleSelect begin */
-        .SingleSelect li {
-            position: relative;
-        }
 
-        .SingleSelect li:hover {
-            border: 1px solid #FF9500;
-        }
-
-        .SingleSelect li.Cur {
-            border: 1px solid #FF9500;
-            color: #FF9500;
-        }
-
-        .SingleSelect li span {
-            display: block;
-            position: absolute;
-        }
-
-        .SingleSelect li.Cur span.Corner {
-            width: 25px;
-            height: 25px;
-            right: 0px;
-            bottom: 0px;
-            background-position: -228px -46px;
-            opacity: 0.8;
-        }
-
-        .SingleSelect li span.Radio {
-            width: 16px;
-            height: 16px;
-            left: -20px;
-            top: 10px;
-            background-position: -189px -53px;
-        }
-
-        .SingleSelect li.Cur span.Radio {
-            background-position: -161px -53px;
-        }
-        /* SingleSelect end */
     </style>
 </head>
 <body>
